@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Glitch in Bio!",
+  "metaDescription": "My meta description.",
+  "name": "Cool links",
+  "theme": "custom-theme ",
+  "links": [
+    {
+"url": "https://youtu.be/OZ5Kph5shGg",
+      "text": "2 hr dj set :))))",
+      "img": ""
+},
+    {
+      "url": "https://www.tiktok.com/@hargo69",
+      "text": "TIKTOK",
+      "img": "https://vignette.wikia.nocookie.net/logopedia/images/0/08/TikTok_icon.svg/revision/latest/scale-to-width-down/175?cb=20190216173047"
+    },
+    {
+      "url": "https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP_(z%2Bquantize_method_with_augmentations%2C_user_friendly_interface).ipynb",
+      "text": "The colab notebook Generate images from text phrases with VQGAN and CLIP",
+      "img": ""
+    },
+    {
+      "url": "https://youtu.be/Bi4sJEE8wCs?t=1115",
+      "text": "tricks for getting interesting results from generating images from text",
+      "img": ""
+    },
+    {
+      "url": "https://codepen.io/ethiapath/full/dyWQWYO",
+      "text": "check out my minecraft server! (works on mobile and console) BROKEN!",
+      "img": "https://www.file-extensions.org/imgs/app-icon/128/6927/minecraft-icon.png"
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@ethiapath",
+
+    "soundcloud": "https://soundcloud.com/ethiapath",
+    "github": "https://github.com/ethiapath",
+    "instagram": "https://www.instagram.com/p/CaTidQoLNon/",
+    "linkedin": "https://www.linkedin.com/in/hargobind-atwal/",
+  
+    "pinterest": "https://www.pinterest.com/ethaipath/",
+    "twitter": "https://twitter.com/psyop_tactics",
+    "youtube": "https://youtube.com/user/ethaipath",
+    "twitch": "https://twitch.tv/ethiapath",
+    "email": "xenacatter@protonmail.com"
+  }
+}
